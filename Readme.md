@@ -1,9 +1,7 @@
 # Julia as a software for Official Statistics and Social Sciences
 
 ## Author
-Josep Espasa Reig - Data Scientist @ LIS - Cross-National Data Center in Luxembourg
-
-[Connect on Linkedin](https://www.linkedin.com/in/josepespasareig)
+:man: Josep Espasa Reig - Data Scientist @ LIS - Cross-National Data  Center in Luxembourg :left_right_arrow: [Connect on Linkedin](https://www.linkedin.com/in/josepespasareig)
 
 ## Introduction
 :wave: Welcome to the repository of my presentation for the NTTS 2023 conference!
