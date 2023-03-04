@@ -9,7 +9,7 @@
 This talk addresses the advantages and disadvantages of using Julia in the field of Official Statistics and Social Sciences. 
 
 ## Contents
-Here you will find a short [summary of the presentation](#Summary_/_TL;DR:), the [slides in PDF format](https://github.com/JosepER/ntts2023_julia_for_official_statistics/blob/main/presentation/julia_for_official_stats_espasareig.pdf), the links to the [repositiories](#Presentation-and-repositories), and the [Docker images](#Presentation-and-repositories) you can use to reproduce the computations.
+Here you will find a short [summary of the presentation](#summary--tldr), the [slides in PDF format](https://github.com/JosepER/ntts2023_julia_for_official_statistics/blob/main/presentation/julia_for_official_stats_espasareig.pdf), the links to the [repositiories](#Presentation-and-repositories), and the [Docker images](#Presentation-and-repositories) you can use to reproduce the computations.
 
 ## Summary / TL;DR:
 :question:Should Data Scientists use Julia for Official Statistics and Social Sciences tasks?
