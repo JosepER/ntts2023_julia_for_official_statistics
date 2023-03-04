@@ -12,10 +12,10 @@ This talk addresses the advantages and disadvantages of using Julia in the field
 Here you will find a short [summary of the presentation](#summary--tldr), the [slides in PDF format](https://github.com/JosepER/ntts2023_julia_for_official_statistics/blob/main/presentation/julia_for_official_stats_espasareig.pdf), the links to the [repositiories](#Presentation-and-repositories), and the [Docker images](#Presentation-and-repositories) you can use to reproduce the computations.
 
 ## Summary / TL;DR:
-:question:Should Data Scientists use Julia for Official Statistics and Social Sciences tasks?
+:question: Should Data Scientists use Julia for Official Statistics and Social Sciences tasks?
 
 * :zap: Julia offers substantial increases in speed for most functions. These tend to range from 1.2x to ~20x improvements.
-* :elephant: Julia tends to be more memory efficient than R, but the imporovements are much more moderate (up to ~4.5x less memory)
+* :elephant: Julia tends to be more memory efficient than R, but the improvements are much more moderate (up to ~4.5x less memory)
 * :grey_exclamation: Calling Julia functions from R creates an overhead which tends to halve the speed benefits of using Julia. 
 <img src=https://user-images.githubusercontent.com/8353293/222904287-0685f33e-35a3-4796-a750-087dbf9c9a50.png alt = "Julia_R_ratios" width = "80%" height = "75%">
 
