@@ -4,14 +4,14 @@
 :man: Josep Espasa Reig - Data Scientist @ LIS - Cross-National Data  Center in Luxembourg :left_right_arrow: [Connect on Linkedin](https://www.linkedin.com/in/josepespasareig)
 
 ## Introduction
-:wave: Welcome to the repository of my presentation for the NTTS 2023 conference!
+:wave: Welcome to the repository of my presentation for the [NTTS 2023](https://ec.europa.eu/eurostat/cros/content/NTTS2023_en) conference in Brussels!
 
 This talk addresses the advantages and disadvantages of using Julia in the field of Official Statistics and Social Sciences. 
 
 ## Contents
-Here you will the slides in PDF format, the links to the repositiories, Docker images you can use to reproduce the computations and a short summary of the presentation.
+Here you will find a short [summary of the presentation](#Summary_/_TL;DR:), the [slides in PDF format](https://github.com/JosepER/ntts2023_julia_for_official_statistics/blob/main/presentation/julia_for_official_stats_espasareig.pdf), the links to the [repositiories](#Presentation-and-repositories), and the [Docker images](#Presentation-and-repositories) you can use to reproduce the computations.
 
-## Summary / __TL;DR:__ 
+## Summary / TL;DR:
 :question:Should Data Scientists use Julia for Official Statistics and Social Sciences tasks?
 
 * :zap: Julia offers substantial increases in speed for most functions. These tend to range from 1.2x to ~20x improvements.
@@ -27,7 +27,7 @@ Here you will the slides in PDF format, the links to the repositiories, Docker i
 
 ## Presentation and repositories
 
-* [Presentation in PDF format](https://github.com/JosepER/ntts2023_julia_for_official_statistics)
+* [Presentation in PDF format](https://github.com/JosepER/ntts2023_julia_for_official_statistics/blob/main/presentation/julia_for_official_stats_espasareig.pdf)
 * [Repository for Julia computations](https://github.com/JosepER/ntts_2023_benchmarking_julia)
 * [Repository for R computations](https://github.com/JosepER/ntts_2023_benchmarking_r)
 
