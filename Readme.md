@@ -9,7 +9,7 @@
 This talk addresses the advantages and disadvantages of using Julia in the field of Official Statistics and Social Sciences. 
 
 ## Contents
-Here you will find a short [summary of the presentation](#summary--tldr), the [slides in PDF format](https://github.com/JosepER/ntts2023_julia_for_official_statistics/blob/main/presentation/julia_for_official_stats_espasareig.pdf), the links to the [repositiories](#Presentation-and-repositories), and the [Docker images](#Presentation-and-repositories) you can use to reproduce the computations.
+Here you will find a short [summary of the presentation](#summary--tldr), the [recording of the presentation](#Presentation-and-repositories), the [slides in PDF format](https://github.com/JosepER/ntts2023_julia_for_official_statistics/blob/main/presentation/julia_for_official_stats_espasareig.pdf), the links to the [repositiories](#Presentation-and-repositories), and the [Docker images](#Presentation-and-repositories) you can use to reproduce the computations.
 
 ## Summary / TL;DR:
 :question: Should Data Scientists use Julia for Official Statistics and Social Sciences tasks?
@@ -27,10 +27,11 @@ Here you will find a short [summary of the presentation](#summary--tldr), the [s
 
 ## Presentation and repositories
 
-* [Recording of the presentation](https://webcast.ec.europa.eu/ntts2023-day-1-mans-20230307) - :alarm_clock: Starts at 16:19:00
-* [Presentation in PDF format](https://github.com/JosepER/ntts2023_julia_for_official_statistics/blob/main/presentation/julia_for_official_stats_espasareig.pdf)
-* [Repository for Julia computations](https://github.com/JosepER/ntts_2023_benchmarking_julia)
-* [Repository for R computations](https://github.com/JosepER/ntts_2023_benchmarking_r)
+* :video_camera: [Recording of the presentation](https://webcast.ec.europa.eu/ntts2023-day-1-mans-20230307) - :alarm_clock: Starts at 16:19:00
+* :memo: [Presentation in PDF format](https://github.com/JosepER/ntts2023_julia_for_official_statistics/blob/main/presentation/julia_for_official_stats_espasareig.pdf)
+* :package: [Inequality.jl Julia package](https://github.com/JosepER/Inequality.jl) for computing income and wealth inequality indicators
+* :file_folder: [Repository for Julia computations](https://github.com/JosepER/ntts_2023_benchmarking_julia)
+* :file_folder: [Repository for R computations](https://github.com/JosepER/ntts_2023_benchmarking_r)
 
 ## Docker images
 To download the Docker images for the computations the following commands on the CLI:
