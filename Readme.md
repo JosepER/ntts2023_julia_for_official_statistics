@@ -27,6 +27,7 @@ Here you will find a short [summary of the presentation](#summary--tldr), the [s
 
 ## Presentation and repositories
 
+* [Recording of the presentation](https://webcast.ec.europa.eu/ntts2023-day-1-mans-20230307) - :alarm_clock: Starts at 16:19:00
 * [Presentation in PDF format](https://github.com/JosepER/ntts2023_julia_for_official_statistics/blob/main/presentation/julia_for_official_stats_espasareig.pdf)
 * [Repository for Julia computations](https://github.com/JosepER/ntts_2023_benchmarking_julia)
 * [Repository for R computations](https://github.com/JosepER/ntts_2023_benchmarking_r)
